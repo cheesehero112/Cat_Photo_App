@@ -22,11 +22,11 @@ README.md (this file)
 
 Screenshots of the Cat Phoeo App are below.
 
-![screenshot 1](media/Screen Shot 2022-08-14 at 8.24.57 AM.png)
+![screenshot 1](https://github.com/cheesehero112/Cat_Photo_App/raw/62e88042617944e92f08640026bcb626d43709b2/media/Screen%20Shot%202022-08-14%20at%208.24.57%20AM.png)
 
-![screenshot 2](/Users/chihiroshibayama/git/Responsive_Webdesign/Cat_Photo_App/media/Screen Shot 2022-08-14 at 8.25.06 AM.png)
+![screenshot 2](https://github.com/cheesehero112/Cat_Photo_App/raw/main/media/Screen%20Shot%202022-08-14%20at%208.25.06%20AM.png)
 
-![screenshot 3](/Users/chihiroshibayama/git/Responsive_Webdesign/Cat_Photo_App/media/Screen Shot 2022-08-14 at 8.25.22 AM.png)
+![screenshot 3](https://github.com/cheesehero112/Cat_Photo_App/raw/main/media/Screen%20Shot%202022-08-14%20at%208.25.22%20AM.png)
 
 
 
